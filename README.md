@@ -1,6 +1,6 @@
 # Stock Management Platform
 
-This Stock Management Platform is a robust application designed to efficiently manage users and products within a company. It allows different roles, including **Administrator**, **Manager**, and **Employee**, to manage products and handle stock-related operations. The platform is developed using **Java** for both the frontend and backend, **PHP** for web services, and **MySQL** for database management.
+This Stock Management Platform is a robust application designed to manage users and products within a company efficiently. It allows different roles, including **Administrator**, **Manager**, and **Employee**, to manage products and handle stock-related operations. The platform is developed using **Java** for both the frontend and backend, **PHP** for web services, and **MySQL** for database management.
 
 ## Features
 
