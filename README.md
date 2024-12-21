@@ -28,6 +28,7 @@ This Stock Management Platform is a robust application designed to efficiently m
 
 ## Tech Stack
 - **Java (Frontend & Backend):** The frontend is developed using manual Java interfaces, and the backend logic is implemented using Java.
+- **JavaFX:** JavaFX is used for building the graphical user interface.
 - **MySQL:** MySQL is used for database management and storing product and user data.
 
 ## Installation
