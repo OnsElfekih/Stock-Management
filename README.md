@@ -9,6 +9,9 @@ This Stock Management Platform is a robust application designed to manage users 
   - Manages users (add, edit, delete, search).
   - Views and manages product lists.
   - Access to all platform functionalities.
+  - **Identifiants par défaut** :  
+    - Nom d'utilisateur : `admin`  
+    - Mot de passe : `adminadmin`  
   
 - **Manager:**
   - Manages products (add, update, delete, and search products).
